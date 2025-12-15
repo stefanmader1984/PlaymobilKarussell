@@ -1,6 +1,9 @@
 A video of the carousel in action:
 https://youtu.be/1QGHYbIiUMk
 
+3d files available here:
+https://www.printables.com/model/1516368-playmobil-compatible-carousel-with-motor-lights-so
+
 
 This project uses:
 - arduino
