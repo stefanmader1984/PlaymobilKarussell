@@ -1,3 +1,7 @@
+A video of the carousel in action:
+https://youtu.be/1QGHYbIiUMk
+
+
 This project uses:
 - arduino
   or any other microcontroller
